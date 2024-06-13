@@ -13,6 +13,10 @@ dotnet add package System.Data.SqlClient
 ```shell
 dotnet add package MySql.Data --version 8.4.0
 ```
+-  WPF UI library : UI lib for WPF Application, [learn more](https://wpfui.lepo.co/documentation/getting-started.html)
+```shell
+dotnet add package WPF-UI --version 3.0.4
+```
 
 # Build project
 Run this command:
